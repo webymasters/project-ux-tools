@@ -72,7 +72,6 @@ Aside from the solution code itself, as a general overview, you will be assessed
 - **Portability**: ability to be dropped into any website, and/or scaled
 - **Efficiency**: How efficient is this solution relative to other possibilities
 - **Collaboration**: distribution of work, research, merging/managing code through git and Github Issues
-- **Testing**: written tests, documentation, methods
 
 ### Expected grade range
 
