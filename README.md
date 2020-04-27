@@ -11,10 +11,11 @@
 - Saira Sadaf Rehman  
 -- Issue: Fixed Heading (A)
 
-Resurces used for Infinite Scrolling
-https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
-https://developer.mozilla.org/en-US/docs/Web/API/Element/clientHeight
-https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML
+### Resurces used for Infinite Scrolling :  
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/clientHeight
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML
 
 
 
