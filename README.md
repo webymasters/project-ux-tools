@@ -22,7 +22,8 @@ For styling, consider responsive layouts, colour balance, fonts, formatting, and
 
 For this project, you will build the following functional UI components, tools and functionality with Javascript, meant to improve the article's reading experience.
 
-### A) Fixed heading when scrolled
+### A) Fixed heading when scrolled 
+Implemented by Saira Rehman
 
 When the user has scrolled past the article's primary heading, they may not have any context for what they're reading if they walk away, are interrupted or were sidetracked. Design a creative UI solution for bringing context to what is in the viewport by using a fixed element. This UI should be shown any time the primary heading is not being displayed. Get creative.
 
