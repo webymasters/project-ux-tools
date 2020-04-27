@@ -1,12 +1,18 @@
 body {
   font: 1em helvetica, arial, sans-serif;
-  background-color: #fff;
+  background-color: rgb(226, 220, 220);
   color: #111;
 }
 .story {
   padding: 0 1em;
 }
 
+h1 {
+
+  background-color: black;
+  color: white;
+  padding: 0.3em;
+}
 .sticky {
   position: fixed;
   top: 0em;
