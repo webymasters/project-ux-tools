@@ -12,3 +12,11 @@ body {
   top: 0em;
   width: 100%;
 }
+
+header {
+  background-color: aqua;
+}
+
+h2{
+  background-color: white;
+}
