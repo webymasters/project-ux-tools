@@ -29,7 +29,7 @@ var element = document.getElementById("scrollsection");
 function myFunction() {
 	headers.forEach(header => {
         const sticky = header.offsetTop;
-           if (window.pageYOffset > sticky){
+           if (window.pageYOffset >= sticky){
             header.classList.add("sticky");
 		} else {
 			header.classList.remove("sticky");
