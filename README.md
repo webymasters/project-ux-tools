@@ -1,6 +1,24 @@
 # PROJECT: UX TOOLING
 
 **CREATE DROP-IN UI COMPONENTS AND/OR TOOLS TO AUGMENT THE STANDARD BROWSER UI TO IMPROVE THE OVERALL USER EXPERIENCE FOR USERS READING AN ARTICLE**
+---
+
+## Project Information
+
+### Team
+- Manpreet Singh
+-- Issue: Infinite Scrolling (D)
+- Saira Sadaf Rehman  
+-- Issue: Fixed Handling (A)
+
+Resurces used for Infinite Scrolling
+https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+https://developer.mozilla.org/en-US/docs/Web/API/Element/clientHeight
+https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML
+
+
+
+---
 
 _This project was meant to be developed with a partner. Given the current circumstances (remote-only), you may opt to work alone if it is less stressful for you to do so._ 
 
