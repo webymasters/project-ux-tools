@@ -25,6 +25,7 @@ var headers = document.querySelectorAll("h2");
 // Get the element from each secation 
 var element = document.getElementById("scrollsection");
 
+// Check if Scroll position > sticky, if yes add fixed heading otherwise remove fixed heading
 function myFunction() {
 	headers.forEach(header => {
         const sticky = header.offsetTop;
