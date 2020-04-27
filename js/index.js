@@ -1,9 +1,10 @@
-
+//Infinite Scrolling Function to suggest more content 
 function scrollinfinite() {
   while(true) {
     let windowRelativeBottom = document.documentElement.getBoundingClientRect().bottom;
     if (windowRelativeBottom > document.documentElement.clientHeight + 100) break;
-    var block = document.getElementById('content');
+	  
+    var block = document.getElementById('content');// Getting id of the main block to add suggestion content
     block.insertAdjacentHTML("beforeend", `<section id="element" id="suggestion">
     <h2>Document Elements</h2>
     <p>Element is the most general base class from which all element objects (i.e. objects that represent elements) in a Document inherit. It only has methods and properties common to all kinds of elements. More specific classes inherit from Element. For example, the HTMLElement interface is the base interface for HTML elements, while the SVGElement interface is the basis for all SVG elements. Most functionality is specified further down the class hierarchy.</p>
@@ -13,9 +14,9 @@ function scrollinfinite() {
   </section>`);
   }
 }
-window.addEventListener('scroll', scrollinfinite);
+window.addEventListener('scroll', scrollinfinite); //Adding event listener 
 
-scrollinfinite(); // init document
+scrollinfinite(); //calling the scrollinfinite function
 
 
 // Get all the headers from each section
