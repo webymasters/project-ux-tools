@@ -9,7 +9,7 @@
 - Manpreet Singh  
 -- Issue: Infinite Scrolling (D)
 - Saira Sadaf Rehman  
--- Issue: Fixed Handling (A)
+-- Issue: Fixed Heading (A)
 
 Resurces used for Infinite Scrolling
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
