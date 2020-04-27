@@ -6,7 +6,7 @@
 ## Project Information
 
 ### Team
-- Manpreet Singh
+- Manpreet Singh  
 -- Issue: Infinite Scrolling (D)
 - Saira Sadaf Rehman  
 -- Issue: Fixed Handling (A)
