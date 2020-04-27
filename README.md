@@ -18,6 +18,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML
 
 
+### Resurce used for Sticky Heading :  
+- https://www.w3schools.com/howto/howto_js_sticky_header.asp
 
 ---
 
